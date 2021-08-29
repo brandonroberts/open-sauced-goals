@@ -1,19 +1,19 @@
 [
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 17652,
+    "stargazers_count": 17655,
     "open_issues_count": 150,
     "forks_count": 856
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 37602,
+    "stargazers_count": 37603,
     "open_issues_count": 369,
     "forks_count": 3067
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 10121,
+    "stargazers_count": 10122,
     "open_issues_count": 408,
     "forks_count": 287
   },
@@ -21,7 +21,7 @@
     "full_name": "vuejs/vue",
     "stargazers_count": 187418,
     "open_issues_count": 528,
-    "forks_count": 29998
+    "forks_count": 29999
   },
   {
     "full_name": "rx-mind/ngrx-plugins",
@@ -152,7 +152,7 @@
   {
     "full_name": "timothycrosley/streamdeck-ui",
     "stargazers_count": 436,
-    "open_issues_count": 41,
+    "open_issues_count": 42,
     "forks_count": 104
   },
   {
