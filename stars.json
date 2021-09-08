@@ -1,33 +1,33 @@
 [
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 363,
+    "stargazers_count": 369,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 18032,
-    "open_issues_count": 163,
-    "forks_count": 881
+    "stargazers_count": 18103,
+    "open_issues_count": 165,
+    "forks_count": 883
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 37736,
-    "open_issues_count": 377,
+    "stargazers_count": 37757,
+    "open_issues_count": 372,
     "forks_count": 3075
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 10183,
+    "stargazers_count": 10185,
     "open_issues_count": 408,
     "forks_count": 290
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 187772,
+    "stargazers_count": 187830,
     "open_issues_count": 529,
-    "forks_count": 30078
+    "forks_count": 30086
   },
   {
     "full_name": "rx-mind/ngrx-plugins",
@@ -75,7 +75,7 @@
     "full_name": "trungk18/angular-spotify",
     "stargazers_count": 1665,
     "open_issues_count": 7,
-    "forks_count": 188
+    "forks_count": 187
   },
   {
     "full_name": "getsentry/sentry-capacitor",
@@ -98,14 +98,14 @@
   {
     "full_name": "dayhaysoos/use-shopping-cart",
     "stargazers_count": 641,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 62
   },
   {
     "full_name": "angular-eslint/angular-eslint",
     "stargazers_count": 973,
     "open_issues_count": 48,
-    "forks_count": 118
+    "forks_count": 119
   },
   {
     "full_name": "ngneat/dag",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "steveseguin/vdo.ninja",
-    "stargazers_count": 1247,
+    "stargazers_count": 1248,
     "open_issues_count": 331,
     "forks_count": 185
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "apivideo/browserLiveStream",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 5,
     "forks_count": 28
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 16199,
+    "stargazers_count": 16202,
     "open_issues_count": 102,
     "forks_count": 503
   },
