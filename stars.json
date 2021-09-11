@@ -1,33 +1,33 @@
 [
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 370,
+    "stargazers_count": 377,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 18204,
-    "open_issues_count": 165,
-    "forks_count": 886
+    "stargazers_count": 18300,
+    "open_issues_count": 168,
+    "forks_count": 900
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 37778,
+    "stargazers_count": 37787,
     "open_issues_count": 374,
-    "forks_count": 3076
+    "forks_count": 3078
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 10193,
+    "stargazers_count": 10203,
     "open_issues_count": 408,
     "forks_count": 290
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 187930,
-    "open_issues_count": 528,
-    "forks_count": 30106
+    "stargazers_count": 187968,
+    "open_issues_count": 529,
+    "forks_count": 30107
   },
   {
     "full_name": "rx-mind/ngrx-plugins",
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "trungk18/angular-spotify",
-    "stargazers_count": 1671,
+    "stargazers_count": 1672,
     "open_issues_count": 7,
     "forks_count": 187
   },
   {
     "full_name": "getsentry/sentry-capacitor",
     "stargazers_count": 78,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "forks_count": 2
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "angular-eslint/angular-eslint",
-    "stargazers_count": 975,
-    "open_issues_count": 43,
+    "stargazers_count": 978,
+    "open_issues_count": 45,
     "forks_count": 119
   },
   {
@@ -116,12 +116,12 @@
   {
     "full_name": "ngneat/tailwind",
     "stargazers_count": 530,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 37
   },
   {
     "full_name": "steveseguin/vdo.ninja",
-    "stargazers_count": 1255,
+    "stargazers_count": 1256,
     "open_issues_count": 331,
     "forks_count": 185
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 16209,
+    "stargazers_count": 16210,
     "open_issues_count": 102,
     "forks_count": 503
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "timothycrosley/streamdeck-ui",
-    "stargazers_count": 444,
+    "stargazers_count": 445,
     "open_issues_count": 37,
     "forks_count": 105
   },
@@ -170,7 +170,7 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 485,
-    "open_issues_count": 35,
+    "open_issues_count": 30,
     "forks_count": 140
   },
   {
