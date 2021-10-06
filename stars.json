@@ -7,45 +7,45 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 7635,
-    "open_issues_count": 197,
-    "forks_count": 312
+    "stargazers_count": 7647,
+    "open_issues_count": 195,
+    "forks_count": 314
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 65090,
-    "open_issues_count": 1483,
-    "forks_count": 6594
+    "stargazers_count": 65110,
+    "open_issues_count": 1496,
+    "forks_count": 6598
   },
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 439,
+    "stargazers_count": 442,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 19723,
-    "open_issues_count": 144,
-    "forks_count": 979
+    "stargazers_count": 19810,
+    "open_issues_count": 145,
+    "forks_count": 983
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 38153,
-    "open_issues_count": 394,
-    "forks_count": 3098
+    "stargazers_count": 38167,
+    "open_issues_count": 400,
+    "forks_count": 3099
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 10344,
+    "stargazers_count": 10354,
     "open_issues_count": 411,
     "forks_count": 298
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 188855,
+    "stargazers_count": 188873,
     "open_issues_count": 531,
-    "forks_count": 30323
+    "forks_count": 30326
   },
   {
     "full_name": "rx-mind/ngrx-plugins",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "mswjs/examples",
-    "stargazers_count": 256,
+    "stargazers_count": 257,
     "open_issues_count": 14,
     "forks_count": 82
   },
@@ -85,20 +85,20 @@
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 19,
     "forks_count": 19
   },
   {
     "full_name": "trungk18/angular-spotify",
-    "stargazers_count": 1691,
+    "stargazers_count": 1695,
     "open_issues_count": 7,
     "forks_count": 193
   },
   {
     "full_name": "getsentry/sentry-capacitor",
     "stargazers_count": 80,
-    "open_issues_count": 15,
+    "open_issues_count": 18,
     "forks_count": 2
   },
   {
@@ -110,7 +110,7 @@
   {
     "full_name": "timdeschryver/ngrx-immer",
     "stargazers_count": 59,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "angular-eslint/angular-eslint",
-    "stargazers_count": 1009,
+    "stargazers_count": 1011,
     "open_issues_count": 47,
     "forks_count": 122
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "ngneat/tailwind",
-    "stargazers_count": 545,
+    "stargazers_count": 546,
     "open_issues_count": 15,
     "forks_count": 38
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 16401,
-    "open_issues_count": 37,
-    "forks_count": 503
+    "stargazers_count": 16409,
+    "open_issues_count": 38,
+    "forks_count": 504
   },
   {
     "full_name": "open-sauced/beybot",
