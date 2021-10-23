@@ -1,19 +1,19 @@
 [
   {
     "full_name": "negue/meme-box",
-    "stargazers_count": 49,
-    "open_issues_count": 48,
-    "forks_count": 10
+    "stargazers_count": 50,
+    "open_issues_count": 47,
+    "forks_count": 11
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 77191,
-    "open_issues_count": 1895,
-    "forks_count": 20250
+    "stargazers_count": 77208,
+    "open_issues_count": 1896,
+    "forks_count": 20256
   },
   {
     "full_name": "ngneat/elf",
-    "stargazers_count": 276,
+    "stargazers_count": 282,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -25,45 +25,45 @@
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 7879,
-    "open_issues_count": 223,
+    "stargazers_count": 7889,
+    "open_issues_count": 218,
     "forks_count": 339
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 65414,
-    "open_issues_count": 1520,
-    "forks_count": 6638
+    "stargazers_count": 65438,
+    "open_issues_count": 1525,
+    "forks_count": 6641
   },
   {
     "full_name": "optoolco/tonic",
-    "stargazers_count": 457,
+    "stargazers_count": 473,
     "open_issues_count": 6,
     "forks_count": 9
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 20514,
-    "open_issues_count": 155,
-    "forks_count": 1044
+    "stargazers_count": 20583,
+    "open_issues_count": 158,
+    "forks_count": 1050
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 38401,
-    "open_issues_count": 412,
-    "forks_count": 3119
+    "stargazers_count": 38421,
+    "open_issues_count": 414,
+    "forks_count": 3117
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 10522,
-    "open_issues_count": 412,
+    "stargazers_count": 10529,
+    "open_issues_count": 414,
     "forks_count": 304
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 189540,
+    "stargazers_count": 189566,
     "open_issues_count": 536,
-    "forks_count": 30467
+    "forks_count": 30474
   },
   {
     "full_name": "rx-mind/ngrx-plugins",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "timdeschryver/rx-query",
-    "stargazers_count": 155,
+    "stargazers_count": 159,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 19,
     "forks_count": 19
   },
   {
     "full_name": "trungk18/angular-spotify",
-    "stargazers_count": 1708,
+    "stargazers_count": 1710,
     "open_issues_count": 7,
-    "forks_count": 198
+    "forks_count": 197
   },
   {
     "full_name": "getsentry/sentry-capacitor",
     "stargazers_count": 83,
     "open_issues_count": 23,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "beeman/panng-stack",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "angular-eslint/angular-eslint",
-    "stargazers_count": 1027,
-    "open_issues_count": 51,
-    "forks_count": 122
+    "stargazers_count": 1028,
+    "open_issues_count": 52,
+    "forks_count": 123
   },
   {
     "full_name": "ngneat/dag",
@@ -171,7 +171,7 @@
     "full_name": "apivideo/browserLiveStream",
     "stargazers_count": 117,
     "open_issues_count": 4,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "yannickglt/store-devtools-switcher",
