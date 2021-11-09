@@ -1,69 +1,69 @@
 [
   {
     "full_name": "negue/meme-box",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 45,
     "forks_count": 12
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 77477,
-    "open_issues_count": 1876,
-    "forks_count": 20343
+    "stargazers_count": 77525,
+    "open_issues_count": 1873,
+    "forks_count": 20350
   },
   {
     "full_name": "ngneat/elf",
-    "stargazers_count": 350,
+    "stargazers_count": 361,
     "open_issues_count": 1,
     "forks_count": 13
   },
   {
     "full_name": "this-is-learning/rxjs-fundamentals-course",
     "stargazers_count": 89,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 14
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 8095,
-    "open_issues_count": 224,
-    "forks_count": 346
+    "stargazers_count": 8134,
+    "open_issues_count": 237,
+    "forks_count": 348
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 65807,
-    "open_issues_count": 1542,
-    "forks_count": 6700
+    "stargazers_count": 65858,
+    "open_issues_count": 1539,
+    "forks_count": 6706
   },
   {
     "full_name": "operatortc/tonic",
-    "stargazers_count": 557,
+    "stargazers_count": 560,
     "open_issues_count": 9,
     "forks_count": 14
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 21312,
+    "stargazers_count": 21459,
     "open_issues_count": 166,
-    "forks_count": 1101
+    "forks_count": 1106
   },
   {
     "full_name": "nuxt/nuxt.js",
-    "stargazers_count": 38569,
-    "open_issues_count": 404,
-    "forks_count": 3137
+    "stargazers_count": 38640,
+    "open_issues_count": 407,
+    "forks_count": 3136
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 10607,
+    "stargazers_count": 10627,
     "open_issues_count": 425,
     "forks_count": 308
   },
   {
     "full_name": "vuejs/vue",
-    "stargazers_count": 190025,
-    "open_issues_count": 543,
-    "forks_count": 30600
+    "stargazers_count": 190114,
+    "open_issues_count": 544,
+    "forks_count": 30614
   },
   {
     "full_name": "rx-mind/ngrx-plugins",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "trungk18/angular-spotify",
-    "stargazers_count": 1723,
+    "stargazers_count": 1728,
     "open_issues_count": 7,
-    "forks_count": 197
+    "forks_count": 199
   },
   {
     "full_name": "getsentry/sentry-capacitor",
     "stargazers_count": 84,
     "open_issues_count": 23,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "beeman/panng-stack",
@@ -128,38 +128,38 @@
   {
     "full_name": "timdeschryver/ngrx-immer",
     "stargazers_count": 63,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "dayhaysoos/use-shopping-cart",
-    "stargazers_count": 670,
+    "stargazers_count": 671,
     "open_issues_count": 26,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "angular-eslint/angular-eslint",
-    "stargazers_count": 1036,
-    "open_issues_count": 60,
+    "stargazers_count": 1044,
+    "open_issues_count": 62,
     "forks_count": 124
   },
   {
     "full_name": "ngneat/dag",
-    "stargazers_count": 121,
+    "stargazers_count": 122,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "ngneat/tailwind",
-    "stargazers_count": 558,
-    "open_issues_count": 17,
+    "stargazers_count": 559,
+    "open_issues_count": 18,
     "forks_count": 39
   },
   {
     "full_name": "steveseguin/vdo.ninja",
-    "stargazers_count": 1318,
-    "open_issues_count": 332,
-    "forks_count": 195
+    "stargazers_count": 1323,
+    "open_issues_count": 334,
+    "forks_count": 197
   },
   {
     "full_name": "nrwl/zack-live-stream",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "apivideo/browserLiveStream",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 5,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "yannickglt/store-devtools-switcher",
