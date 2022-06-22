@@ -1,26 +1,26 @@
 [
   {
     "full_name": "angular/angular",
-    "stargazers_count": 82044,
-    "open_issues_count": 1272,
-    "forks_count": 21659
+    "stargazers_count": 82103,
+    "open_issues_count": 1267,
+    "forks_count": 21681
   },
   {
     "full_name": "Team-TAU/tau",
-    "stargazers_count": 113,
-    "open_issues_count": 20,
+    "stargazers_count": 114,
+    "open_issues_count": 21,
     "forks_count": 29
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 34514,
-    "open_issues_count": 272,
-    "forks_count": 2034
+    "stargazers_count": 34632,
+    "open_issues_count": 266,
+    "forks_count": 2047
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 12247,
-    "open_issues_count": 444,
+    "stargazers_count": 12268,
+    "open_issues_count": 446,
     "forks_count": 381
   }
 ]
